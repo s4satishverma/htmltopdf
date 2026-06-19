@@ -25,7 +25,7 @@ if (typeof(document) === "undefined" || typeof(Object.create) !== "function" || 
     return;
 }
 
-/*! https://mths.be/punycode v1.3.1 by @mathias */
+
 ;(function(root) {
 
 	/** Detect free variables */
